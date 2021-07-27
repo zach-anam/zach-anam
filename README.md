@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @zach-anam
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning front-end dev
+- 🌱 I’m currently learning Front-End Dev
 - 💞️ I’m looking to collaborate on Web-Development
 - 📫 How to reach me zach.anam@gmail.com
 
